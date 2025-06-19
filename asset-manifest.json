@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/trust-your-timing.git/static/css/main.5e8ff2fa.css",
-    "main.js": "/trust-your-timing.git/static/js/main.4d540ad1.js",
-    "index.html": "/trust-your-timing.git/index.html",
-    "main.5e8ff2fa.css.map": "/trust-your-timing.git/static/css/main.5e8ff2fa.css.map",
-    "main.4d540ad1.js.map": "/trust-your-timing.git/static/js/main.4d540ad1.js.map"
+    "main.css": "/trust-your-timing/static/css/main.5e8ff2fa.css",
+    "main.js": "/trust-your-timing/static/js/main.4d540ad1.js",
+    "index.html": "/trust-your-timing/index.html",
+    "main.5e8ff2fa.css.map": "/trust-your-timing/static/css/main.5e8ff2fa.css.map",
+    "main.4d540ad1.js.map": "/trust-your-timing/static/js/main.4d540ad1.js.map"
   },
   "entrypoints": [
     "static/css/main.5e8ff2fa.css",
