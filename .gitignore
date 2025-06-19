@@ -32,3 +32,4 @@ Thumbs.db
 # Hide these files from GitHub
 package-lock.json
 .gitignore" > .gitignore
+.vercel

@@ -1,4 +1,5 @@
 import React from "react";
+import { Analytics } from "@vercel/analytics/react";
 import { useGameLogic } from "./hooks/useGameLogic";
 import SetupScreen from "./components/SetupScreen";
 import WaitingScreen from "./components/WaitingScreen";
@@ -46,6 +47,7 @@ function App() {
           />
         )}
       </div>
+      <Analytics />
     </div>
   );
 }
