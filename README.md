@@ -2,7 +2,7 @@
 
 A minimalist web game that challenges your internal clock. Can you trust your timing?
 
-🎮 **[Play Now](https://xmfaizan.github.io/trust-your-timing)**
+🎮 **[Play Now](https://trust-your-timing.vercel.app/)**
 
 ##  How to Play
 
